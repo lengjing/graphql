@@ -1,5 +1,6 @@
 # GraphQL
 
+
 This is a Working Draft of the Specification for GraphQL, a query language for APIs created by Facebook.
 
 The target audience for this specification is not the client developer, but those who have,
